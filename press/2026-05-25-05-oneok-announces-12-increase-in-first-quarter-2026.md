@@ -1,7 +1,9 @@
 ---
 title: ONEOK Announces 12% Increase in First-Quarter 2026 ...
 url: https://www.oilandgas360.com/oneok-announces-12-increase-in-first-quarter-2026-net-income-and-13-increase-in-adjusted-ebitda/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Oneok" press release artificial intelligence'
 position: 5
 source: serpapi-google

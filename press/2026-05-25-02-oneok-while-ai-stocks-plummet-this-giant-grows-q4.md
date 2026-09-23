@@ -1,7 +1,9 @@
 ---
 title: 'ONEOK: While AI Stocks Plummet, This Giant Grows (Q4 ...'
 url: https://seekingalpha.com/article/4873852-oneok-while-ai-stocks-plummet-this-giant-grows-q4-earnings-review
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Oneok" press release artificial intelligence'
 position: 2
 source: serpapi-google

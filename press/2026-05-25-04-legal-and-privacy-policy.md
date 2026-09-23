@@ -1,7 +1,9 @@
 ---
 title: Legal and Privacy Policy
 url: https://www.oneok.com/legal-and-privacy
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Oneok" press release artificial intelligence'
 position: 4
 source: serpapi-google
